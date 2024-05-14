@@ -1,7 +1,8 @@
 **Install the PSExcel module before running**
+
 _Install-Module -Name PSExcel_
 
-
+---------------------------------------------
 
 **Description of each section:**
 
